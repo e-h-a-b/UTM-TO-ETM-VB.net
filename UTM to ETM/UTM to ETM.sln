@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UTM to ETM", "UTM to ETM\UTM to ETM.vbproj", "{A7BAF8FD-DE1E-4335-ACAB-731BB4EFE616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BAF8FD-DE1E-4335-ACAB-731BB4EFE616}.Debug|x86.ActiveCfg = Debug|x86
+		{A7BAF8FD-DE1E-4335-ACAB-731BB4EFE616}.Debug|x86.Build.0 = Debug|x86
+		{A7BAF8FD-DE1E-4335-ACAB-731BB4EFE616}.Release|x86.ActiveCfg = Release|x86
+		{A7BAF8FD-DE1E-4335-ACAB-731BB4EFE616}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
